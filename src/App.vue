@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h2>This is a very first supermall</h2>
   </div>
 </template>
 
@@ -10,7 +11,7 @@
     components: {}
   }
 </script>
-<style lang="scss">
-
+<style>
+@import "assets/css/base.css";
 
 </style>
